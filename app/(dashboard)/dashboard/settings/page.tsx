@@ -80,7 +80,7 @@ export default function SettingsPage() {
             <CardHeader>
               <CardTitle>Site Information</CardTitle>
               <CardDescription>
-                Configure your blog's basic information and settings
+                Configure your blog&apos;s basic information and settings
               </CardDescription>
             </CardHeader>
             <CardContent className="space-y-4">
@@ -168,7 +168,7 @@ export default function SettingsPage() {
             <CardHeader>
               <CardTitle>Theme Settings</CardTitle>
               <CardDescription>
-                Customize your blog's appearance and branding
+                Customize your blog&apos;s appearance and branding
               </CardDescription>
             </CardHeader>
             <CardContent className="space-y-4">
@@ -227,7 +227,8 @@ export default function SettingsPage() {
                 <div className="space-y-0.5">
                   <Label>Weekly Analytics Report</Label>
                   <p className="text-sm text-muted-foreground">
-                    Receive weekly email reports about your blog's performance
+                    Receive weekly email reports about your blog&apos;s
+                    performance
                   </p>
                 </div>
                 <Switch defaultChecked />
